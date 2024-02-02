@@ -56,9 +56,7 @@ cd AllHackingTools
 bash Install.sh
 ```
 
-# 
-
-# Sherlock
+# Sherlock:
 
 apt update
 
@@ -97,3 +95,11 @@ pip install torrequest
 cd sherlock
 
 python sherlock.py username
+
+# ZPhisher:
+
+apt update 
+apt install git curl php openssh-server -y 
+git clone git://github.com/Optane002/ZPhisher.git 
+cd ZPhisher 
+bash ZPhisher.sh
