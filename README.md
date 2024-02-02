@@ -55,3 +55,43 @@ cd AllHackingTools
 ```bash
 bash Install.sh
 ```
+
+# Sherlock
+
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/sherlock-project/s...
+
+cd sherlock
+
+pip install beautifulsoup4
+
+pip install bs4
+
+pip install certifi
+
+pip install colorama
+
+pip install Ixml
+
+pip install PySocks
+
+pip install requests
+
+pip install requests-futures
+
+pip install soupsieve
+
+pip install stem
+
+pip install torrequest
+
+cd sherlock
+
+python sherlock.py username
