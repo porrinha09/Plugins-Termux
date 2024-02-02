@@ -1,7 +1,7 @@
 # Plugins-Termux
 Plugins Termux
 
-DarkArmy:
+# DarkArmy:
 ```bash
 pkg install git
 ```
