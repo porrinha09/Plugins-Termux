@@ -56,6 +56,8 @@ cd AllHackingTools
 bash Install.sh
 ```
 
+# 
+
 # Sherlock
 
 apt update
@@ -66,7 +68,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/sherlock-project/s...
+git clone https://github.com/sherlock-project/sherlock.git
 
 cd sherlock
 
