@@ -12,6 +12,12 @@ pkg install git ; pkg install python ; git clone https://github.com/D4RK-4RMY/DA
 apt update ; apt upgrade ; termux-setup-storage ; apt install git ; git clone https://github.com/mishakorzik/AllHackingTools ; cd AllHackingTools ; bash Install.sh
 ```
 
+# anonphisher
+
+```shell
+git clone https://github.com/TermuxHackz/anonphisher ; cd anonphisher ; bash anonphisher.sh
+```
+
 # Sherlock:
 
 ```shell
