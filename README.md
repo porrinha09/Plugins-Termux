@@ -2,11 +2,11 @@
 Plugins Termux
 
 # DarkArmy:
-```bash
+```shell
 pkg install git
 ```
 
-```bash
+```shell
 pkg install python
 ```
 
