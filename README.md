@@ -15,7 +15,7 @@ apt update ; apt upgrade ; termux-setup-storage ; apt install git ; git clone ht
 # anonphisher
 
 ```shell
-git clone https://github.com/TermuxHackz/anonphisher ; cd anonphisher ; bash anonphisher.sh
+pkg install git ; git clone https://github.com/TermuxHackz/anonphisher ; cd anonphisher ; bash anonphisher.sh
 ```
 
 # Sherlock:
